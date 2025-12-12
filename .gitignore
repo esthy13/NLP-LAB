@@ -1,5 +1,5 @@
 # Ignore Dataset folder cause it's too big
-tutorial-1/tutorial-1/Datasets/
+tutorial-1/Datasets/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
